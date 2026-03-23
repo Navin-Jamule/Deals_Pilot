@@ -1,9 +1,6 @@
 # DealPilot
 
-[![Python](https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python)](https://www.python.org/)  
-[![OpenAI](https://img.shields.io/badge/OpenAI-GPT--5.1-black?style=for-the-badge&logo=openai)](https://openai.com/)  
-[![ChromaDB](https://img.shields.io/badge/ChromaDB-VectorDB-purple?style=for-the-badge)](https://www.trychroma.com/)  
-[![Gradio](https://img.shields.io/badge/Gradio-UI-orange?style=for-the-badge)](https://gradio.app/)  
+[![Python](https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python)](https://www.python.org/) [![OpenAI](https://img.shields.io/badge/OpenAI-GPT--5.1-black?style=for-the-badge&logo=openai)](https://openai.com/) [![ChromaDB](https://img.shields.io/badge/ChromaDB-VectorDB-purple?style=for-the-badge)](https://www.trychroma.com/) [![Gradio](https://img.shields.io/badge/Gradio-UI-orange?style=for-the-badge)](https://gradio.app/)
 
 DealPilot is an autonomous multi-agent system that discovers, analyzes, and evaluates online deals. It combines RAG with GPT-5.1, a QLoRA fine-tuned LLaMA specialist agent, and a neural network model to estimate true product value, identify high-discount opportunities, and deliver intelligent alerts with visualization.
 
