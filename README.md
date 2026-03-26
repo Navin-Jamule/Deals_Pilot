@@ -96,6 +96,8 @@ Final price is derived using ensemble logic.
 - Provides fallback visualization when data is limited  
 
 ---
+## Dataset - https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023
+---
 
 ## Tech Stack
 
