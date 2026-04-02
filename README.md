@@ -63,8 +63,7 @@ The final system uses an ensemble approach combining:
 - Neural Network for numerical stability  
 
 This hybrid design achieved the lowest error and forms the core of DealPilot.
-<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/e7f4c39d-e4bd-4efd-a21d-6c33e1b56c59" />
-
+<img width="2000" height="1272" alt="Image" src="https://github.com/user-attachments/assets/e25d3b2c-b3df-4bc1-8b85-a15774f15377" />
 
 ## Key Features
 
